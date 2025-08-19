@@ -1,0 +1,58 @@
+[
+  {
+    "location": "Giza Plateau",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  },
+  {
+    "location": "Egyptian Museum",
+    "date": "1754438400000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "arab"
+  },
+  {
+    "location": "Prince Mohamed Aly Palace",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  },
+  {
+    "location": "Salah Eldin Citadel",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  },
+  {
+    "location": "Bab Zuwaila",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  },
+  {
+    "location": "Coptic Museum",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  },
+  {
+    "location": "Baron Empain Palace",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  },
+  {
+    "location": "Islamic art museum",
+    "date": "1754784000000",
+    "adults": 1,
+    "students": 0,
+    "nationality": "egyptian"
+  }
+]

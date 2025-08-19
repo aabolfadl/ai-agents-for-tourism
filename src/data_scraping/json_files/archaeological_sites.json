@@ -1,0 +1,918 @@
+[
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1",
+    "name": "Qubbat Al-Hawa Cemetery",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"24.101769",
+    "Longitude":"32.889158",
+    "rating": 4.7,
+    "reviews": 273,
+    "description": "Qubbat Al-Hawa Cemetery consists of several tombs on the west bank of the Nile across the river from the northern tip of Elephantine Island cut into the rocky slopes of the cliffs that offer an enchanting panorama that reveals the beauty of Aswan.\nThese tombs are those of local governors and high dignitaries from the Old to Middle Kingdoms. This cemetery site, which remained in use from the Old kingdom to the Roman Period, is named after the domed tomb of Sheikh Aly Abu Al-Hawa (qubba meaning dome in Arabic), which stands at the top of the cliffs above the tombs.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      }
+    },
+    "prices": "FOREIGNER:\nAdult: EGP 200\nStudent: EGP 100\nEGYPTIAN   ARABS:\nAdult: EGP 20\nStudent: EGP 10",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1",
+    "name": "Elephantine",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"24.0833",
+    "Longitude":"32.8833",
+    "rating": 4.6,
+    "reviews": 150,
+    "description": "Elephantine is an archaeological island on the Nile Riverbank, which was the gateway into Egypt for all traders entering from Nubia.\nMany different monuments await you here, including the remains of ancient houses that belongs to the temple of the god of the annual Nile flood khnum , and the temple of the goddess who guarded Egypt's Sothern frontiers, Satet, who was also associated with the annual Nile flood. Make sure you don't miss the Nilometer or the nearby museum, where the objects discovered by the German archaeological mission that works on the island are on display. The island of Elephantine was inscribed on UNESCO'S World Heritage List in 1979.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      },
+      "Monday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      },
+      "Tuesday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      },
+      "Wednesday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      },
+      "Thursday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      },
+      "Friday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      },
+      "Saturday": {
+        "from": "08:00 AM",
+        "to": "04:00 PM"
+      }
+    },
+    "prices": "FOREIGNER:\nAdult: EGP 200\nStudent: EGP 100\nEGYPTIAN   ARABS:\nAdult: EGP 20\nStudent: EGP10",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-kab",
+    "name": "Al Kab",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"25.1016",
+    "Longitude":"32.7695",
+    "rating": 4.6,
+    "reviews": 108,
+    "description": "This is site of ancient city of Nekhbet. as the cult center of the vulture goddess Nekhbet, the tutelary deity of Upper Egypt. Here, you will find many important monuments dating all the way back from the Predynastic Period to the Graeco-Roman Period, most notably the remains of the temple of Nekhbet and the walls of ancient city.\nDo not miss the beautifully decorated New Kingdom tombs and especially the biographical inscriptions carved into their walls like those of Paheri, Ahmose Pennekhbet, and most famous of all, Ahmose, son of Abana, who fought against the Hyksos just in the New Kingdom.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNER:\nAdult: EGP 200\nStudent: EGP 100\nEGYPTIAN   ARABS:\nAdult: EGP 10\nStudent: EGP 5",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/aswan",
+    "name": "Aswan",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"24.0889",
+    "Longitude":"32.8998",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Aswan, called Sunn by the ancient Egyptians, is one of the most important cities in the south of Egypt, and acted as its southern gateway throughout history. As necessary stop for all traders and merchants coming from Nubia through the Nile, it was the link between Egypt and Africa. Aswan is the site of many archaeological sites and important landmarks such as the island of Elephantine, the ancient Egyptian granite quarries including the Unfinished Obelisk, the Coptic monastery of St Simeon, and the Nubian Museum.\nTravelling a short distance to the north, you will find yourself in the temples of Edfu and Kom Ombo. To the south of Aswan, get on board a boat that will take you to the temples of Philae on the island of Agilkia. Farther to the south lies the Aswan high dam and, beyond it, you can explore the many great monuments of New Kalabsha Island. A southward journey of around 300km will take you to the legendary temples of Abu Simbel.\nto download A Guide to Aswan click here!",
+    "opening_hours": {},
+    "prices": "",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-bahnasa-tombs",
+    "name": "Al-Bahnasa Tombs",
+    "location": "Al-Minya",
+    "Outdoors": "True",
+    "Latitude":"28.4722",
+    "Longitude":"30.6556",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Al-Bahansa is famous for its ancient cemeteries and hills, and for the births of saints and martyrs, and many developments and changes came to it throughout the historical ages. The city of Al-Bahansa was of an important position in the Islamic era, as evidenced by many existing and vanished monuments. It was also an important commercial center located on the path leading to the Bahariya Oasis. The ancient tombs of Al-Bahansa include many domes and shrines of the Companions, followers and scholars, who came to it and cited it during the Islamic conquest of Egypt, as the city's garrison strongly resisted the Muslim army during its conquest, which led to the martyrdom of a large number of Muslims. Among the ancient domes in it are the dome of the Seven Girls, the dome of Ubadah ibn al-Samit and the dome of Muhammad ibn Abi Dhar al-Ghafari.",
+    "opening_hours": {},
+    "prices": "",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/amada-temples",
+    "name": "Amada Temples",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"22.73113925",
+    "Longitude":"32.2626039",
+    "rating": 4.7,
+    "reviews": 33,
+    "description": "Today, the temple of Amada, the temple of al-Derr, and the tomb of Pennut are located in the site of New Amada, around 160 km south of Aswan. They were in danger of permanent submersion under the waters of the Nile with the construction of the Aswan High Dam in the 1960s. Because of their immense historical value, these ancient monuments were rescued by UNESCO’s operation to salvage the monuments in Nubia. They were dismantled and relocated from their original sites to their new home in New Amada, just a few kilometres away. Since 1979, these beautiful monuments are now inscribed on UNESCO’s World Heritage List.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      }
+    },
+    "prices": "FOREIGNER:\nAdult: EGP 150\nStudent: EGP 75\nEGYPTIAN   ARABS:\nAdult: EGP 10\nStudent: EGP 5",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/temples-of-wadi-al-sebua",
+    "name": "Temples of Wadi al Sebua",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"22.7972",
+    "Longitude":"32.5444",
+    "rating": null,
+    "reviews": null,
+    "description": "The site New Wadi al-Sebua results from the relocation of temples in Nubia after the construction of the Aswan High Dam in the 1960s by the Egyptian government. It is only 4 km northwest of the original site of Wadi al-Sebua. It welcomes several temples about to be covered with the Nile water. It hosts the Ramessid temple of Wadi al-Sebua dedicated to Amun-Ra and Ra-Horakhty, the Graeco-Roman temple of Dakka dedicated to Thoth, and the Roman temple of al-Mahrraqa dedicated to the couple Isis and Serapis. All these temples were inscribed on the UNESCO World Heritage Site in 1979 as part of Nubian Monuments.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      }
+    },
+    "prices": "FOREIGNER:\nAdult: EGP 150\nStudent: EGP 75\nEGYPTIAN   ARABS:\nAdult: EGP 10\nStudent: EGP 5",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-mina-1",
+    "name": "Abu Mina",
+    "location": "Alexandria",
+    "Outdoors": "True",
+    "Latitude":"30.8410",
+    "Longitude":"29.6635",
+    "rating": 4.7,
+    "reviews": 93,
+    "description": "The archaeological site of Abu Mina features a number of structures, many of which are religious in nature. The most prominent of these is the tomb of the eponymous St. Menas (AD 285–309), whose fame during the late Roman Period made the site a popular destination for pilgrims seeking blessings.\nOver time, structures were built around the tomb, such as the Baptistery, several churches, baths, houses, wine presses and workshops, in addition to pilgrim quarters and a large square bordered by porticoes with marble columns. The so-called ‘Pilgrims’ Court’ was a gathering point for pilgrims to the tomb.\nThe ancient city and the saint’s tomb were eventually forgotten until they were discovered by the German archaeologist C.M. Kaufmann in the early 20th century. Subsequent archaeological work by missions from the Coptic Museum and Graeco-Roman Museum unearthed remains of the residential quarters of the city. Because of its religious and historical value, the archaeological site of Abu Mina was inscribed on UNESCO’s World Heritage List in 1979.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "07:00 PM"
+      }
+    },
+    "prices": "",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/gebel-el-silsila",
+    "name": "Gebel al-Silsila",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"24.6333308",
+    "Longitude":"32.9333296",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Gebel al-Silsila is a mountainous region with sandstone quarries on both sides of the Nile. The sandstone quarries of Gebel al-Silsila have been used from the Middle Kingdom (c. 2034–1650 BC) until the 20th century. More than a hundred quarries were exploited to extract the sandstone blocks needed to construct many of ancient Egypt’s famous temples. The quarries have preserved tool marks and workers’ inscriptions that can be seen today.\nTwo temples existed on the west bank of Gebel al-Silsila, both dating to the reign of Horemheb (c. 1323–1295 BC), but only one has survived. This rock-cut temple is called the Speos of Horemheb and was dedicated to seven deities whose statues can be seen in its sanctuary.\nSouth of it thirty-two rock-chapels cut into the cliff-face above the Nile for New Kingdom high officials, mostly contemporaries of Hatshepsut and Thutmose III (c. 1479–1425 BC).\nSouth of these; are the rock-cut porch-like structures of Sety I (c. 1294–1279 BC), Rameses II (c. 1279–1213 BC), and Merenptah (c. 1213–1203 BC), and the large stela of Rameses III (c. 1184–1153 BC).\nThere are also many more shrines, stelae, and graffiti on both sides of the Nile, ranging in date from prehistory to even after the Roman Period.\nMany deities associated with the Nile were worshipped in the Speos and surrounding shrines, such as the god of the inundation Hapy, the hippopotamus goddess Taweret, the ram-headed god Khnum, and Gebel al-Silsila’s local deity the crocodile god Sobek. Isis, Horus, Min, and the triad of Thebes (Amun, his wife Mut, and their son Khonsu) were also prominent here.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdult: EGP 100/ Student: EGP 50\nEGYPTIANS/ARABS:\nAdult: EGP 10/ Student: EGP 5",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur",
+    "name": "Dahshur",
+    "location": "Giza",
+    "Outdoors": "True",
+    "Latitude":"29.7484",
+    "Longitude":"31.2465",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Dahshur was the southern part of the cemetery of Memphis, the capital of ancient Egypt. Pyramids of the kings of the Old and Middle Kingdoms were erected on this hill. The first king of the 4th Dynasty Sneferu chose the rocky plateau of Dahshur to establish his first pyramid to compete with the pyramid of King Djoser in Saqqara but failed to complete it. This first attempt turned into a broken shape, but he built a complete pyramid at a distance from it, called the Red Pyramid. Nearby, the pyramids dating to the Middle Kingdom, starting from the pyramid of King Amenemhat II, stand although in a bad state. The pyramid of King Senwosret III is surrounded by the tombs of the princesses Sit-Hathor and Ment.\nAs for the Black Pyramid of King Amenemhat III, it is also in poor condition of conservation. Despite the erosion of its stones, it is still standing at a distance from the pyramid of Sneferu. The stone pyramidion, the tip of the pyramid, is on display at the Egyptian Museum. Several other pyramids of the 13th Dynasty were built at Dahshur.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdult: EGP 200/ Student: EGP 100\nEGYPTIANS/ ARABS:\nAdult: EGP 10 / Student: EGP 5",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/marys-tree-archaeological-site",
+    "name": "Mary’s Tree",
+    "location": "Cairo",
+    "Outdoors": "True",
+    "Latitude":"30.1206",
+    "Longitude":"31.3089",
+    "rating": null,
+    "reviews": null,
+    "description": "The holy family sought refuge under a tree in Matariyya (the ancient city of Heliopolis), today known as “Mary’s Tree.” It became a popular religious site visited by many people from all over the world throughout the ages. The original tree eventually grew weak and fell in 1656 AD. A group of Franciscan priests gathered its branches and replanted them.\nThe tree drew the attention of medieval historians such as al-Maqrizi and Imam al-Suyuti, both of whom paid it a  visit. Orientalist travelers such as Stanley Lin also visited the site, as did the French Empress Eugene during the inauguration of the Suez Canal in 1869, during the reign of Khedive Ismail.\nSome French soldiers passed by the tree in 1800, during the battle of Ain Shams between the French and Ottoman armies. The soldiers carved their names with their swords into the tree’s branches.\nTo download Mary's Tree brochure click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdults: EGP 100 / Student: EGP 50\nEGYPTIANS/ARABS:\nAdults: EGP 10 / Student: EGP 5\nCamera Holder for Foreigner 20 EGP\nCamera Holder for Egyptian/Arab: 10 EGP",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/tal-basta",
+    "name": "Tell Basta",
+    "location": "Al-Sharkia",
+    "Outdoors": "True",
+    "Latitude":"30.5724",
+    "Longitude":"31.5121",
+    "rating": null,
+    "reviews": null,
+    "description": "Tell- Basta gets its name from the ancient Egyptian Per-Bastet “the house of goddess Bastet”, which was the cult center of the feline goddess Bastet. The latter, a lioness goddess, was associated with female fertility and played a main protective role.\nPer-Bastet was the capital of the 18th Lower Egyptian nome (province) during the New Kingdom period (c.1550–1069 BC). It was also the capital of the country during the 22nd Dynasty (c.945–715 BC).\nIts strategic position, in the eastern Delta, made it an important trade hub through which travelers could trade caravans to and from the Sinai and beyond. Most importantly, Bubastis was visited by the Holy Family during its journey to Egypt.\nPer Bastet also features the temple of Bastet and the statue of Queen Meritamun, the once daughter and then wife of Ramesses II (c.1279–1213 BC). In addition, one can also find the remaining pillars of the 6th Dynasty temple of Pepi I (c.2289–2255 BC), a large palace of Amenemhat III (c.1855–1808 BC), and remains of a well dating to the Roman Period.\nTell Basta has a long history of excavations undertaken by both Egyptian and foreign missions. Édouard Naville excavated the temple of Bastet between 1887 and 1889, and then Labib Habachi discovered the temple of Pepi I in 1939. A colossal palace of Amenemhat III was excavated by the teams of the Supreme Council of Antiquities and Zagazig University directed by Shafiq Farid in the 1960s, by Ahmed el-Sawi around a decade later, and then by Mohammed Ibrahim Bakr in the late 1970s and 1980s.\nto download the brochure of Tell Basta,click here!\nto download the Tell Basta Museum brochure, click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "09:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nِAdult: 150EGP\nStudent: 75EGP\nEGYPTIANS/ARABS:\nِAdult: 10 EGP\nStudent: 5 EGP\nCars ticket:\nCar& Taxi: EGP25 / Micro-bus: EGP50 /Coaster: EGP75/ Bus: EGP100",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/el-hawawish",
+    "name": "El Hawawish",
+    "location": "Sohag",
+    "Outdoors": "True",
+    "Latitude":"26.5836",
+    "Longitude":"31.7805",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Al Hawawish Cemetery is considered one of the most prominent archaeological sites in Sohag, as Al Hawaish is located about 10 km east of Sohag, and about 7 km from Akhmim, which was its main cemetery during the Old Kingdom. This attracted the Australian Research Council and Macquarie University's Australian Center for Egyptology Research to conduct scientific excavations at the site from the early 1980s until the early 1990s.\nAl Hawawish Cemetery contains more than 800 tombs which date to the Old Kingdom (2684-2160 BC) and the First Intermediate  Period (2160-2034BC).Nearly 60 tombs still preserve some inscriptions, scenes of funerals, offerings, daily life, dancing and hunting and agriculture in the ancient Akhmim, while five of them are particularly well preserved.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nِAdult: 150EGP\nStudent: 75EGP\nEGYPTIANS/ARABS:\nِAdult: 10 EGP\nStudent: 5 EGP",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/el-sheikh-hamad-athribis",
+    "name": "El Sheikh Hamad (Athribis)",
+    "location": "Sohag",
+    "Outdoors": "True",
+    "Latitude":"26.5166646",
+    "Longitude":"31.666664",
+    "rating": null,
+    "reviews": null,
+    "description": "Dating back to the 4th century BC, Athribis was founded relatively late in comparison to many other ancient Egyptian sites. Its temple is located to the west of the settlement with mud brick houses, which has yet to be excavated.\nThe Ptolemaic and Roman Period tombs of the city’s residents, dating up to the 4th century AD, are located in the hill nearby. Above the tombs are the limestone quarries from which the temple’s stone blocks were sourced.\nMajor excavations of the archeological site of Athribis were undertaken by William Flinders Petrie in 1906–1907, by the Egyptian Antiquities Authority in 1981–1997, and by the Egyptian-German mission in 2003–2012.\nThe temple of Ptolemy XII is one of the most important temples in the site. Completed by the Roman emperors Tiberius until Hadrian, the temple suffered from an earthquake that caused its demolition.\nThe inner walls of the temple are surrounded by the 26 columns;it is a unique design in Egyptian architecture. The walls of the Holy of holies, the sanctuary, are depicted with distinct scenes of  procession of daily gods, representing a day of the Egyptian calendar. Each god carries a vase in the form of a hawk's head topped by a sun disk.\nThe Temple of Ptolemy IX is located to the west of the Temple of Ptolemy XII. The first temple was dedicated to the worship of the Min-Ra. and the temple is still buried under the sand and its gate found in 1983, linking the two temples to a floor of stone tiles.\nThe archaeological site includes the rock temple of Ascalpius, which consists of a court, a stone façade, and two halls carved into the rock, the temple dated the end of the Ptolemaic period based on its decoration.\nThe excavations of the temple also revealed the remains of a Coptic Basilica Church in the south side, three longitudinal corridors divided by two rows of columns that could be dated by breaking the pottery found to the 5th and 6th centuries AD.\nFinally, there is an open museum that can be visited: it includes some stone blocks of the temple's facade, the remains of the entrance, the corniche and the doorsteps held on the columns of crowns in the Hathor goddess form.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nِAdult: 150EGP\nStudent: 75EGP\nEGYPTIANS/ARABS:\nِAdult: 10 EGP\nStudent: 5 EGP",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/shali-village-in-siwa-oasis",
+    "name": "Shali village in Siwa Oasis",
+    "location": "Matrouh",
+    "Outdoors": "True",
+    "Latitude":"29.1786",
+    "Longitude":"25.5542",
+    "rating": null,
+    "reviews": null,
+    "description": "The village of Shali in Siwa Oasis - Matrouh Governorate. \"Shali\" is a Siwi word meaning city. The village of Shali was built from the material of the archive, which is clay saturated with salt. If it dries up, it becomes similar to cement in its hardness. It is a unique style of construction, and it dates back to the sixth century AH / twelfth century AD.\nThe city is surrounded by a sturdy building wall that has only one entrance called “The Bab Anshal”, meaning the gate of the City, and on the northern side of the city wall there is the ancient mosque, which is the oldest mosque built with mud in Africa, and after a century passed, a second gate was opened on the southern side of the wall near the oil press called “Bab Athrat”, meaning the new door and a third door opened after a century had passed, called “Qaduha” for women only.\nThe city includes the Al-Ateeq Mosque and the Sheikha Hasina Mosque, known as the Tandi Mosque, in addition to the city's houses and ruins of its buildings.\nThe ancient city of \"Shali\" includes 6 deep water wells that served the people of the oasis in drinking water. The restoration work has been completed, making the village eligible for a visit with its ruins, reflecting the city's history and its historical value.",
+    "opening_hours": {},
+    "prices": "",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/beni-hasan",
+    "name": "Beni Hasan",
+    "location": "Al-Minya",
+    "Outdoors": "True",
+    "Latitude":"27.9312",
+    "Longitude":"30.8756",
+    "rating": 4.4,
+    "reviews": 195,
+    "description": "The Beni Hasan cemetery is located in one of the most fertile regions of Egypt. This site includes some of the most impressive tombs of the Middle Kingdom. Its rich and well-preserved tombs attest the economic prosperity that it enjoyed.\nThe tombs are located in two distinct areas: the upper and lower cemeteries. The lower cemetery contains around 800 tombs, many of them shaft tombs. It mostly contains tombs of various officials from the First Intermediate Period (c.2181–2055 BC) to the Middle Kingdom (c.2055–1650 BC), but late Old Kingdom (c.2345–2181 BC) tombs, like Ipi’s, have also been discovered. The upper cemetery includes 39 rock-cut tombs, which were cut horizontally into the rock face of the cliffs. The walls of 12 of these tombs are decorated with beautifully painted scenes depicting activities of daily life, from agriculture and crafts to hunting and playing games, and also war and the arrival of foreigners on Egyptian lands.\nThe tombs of the upper cemetery are a testament to the ancient Egyptians’ architectural skills. They were cut into the rock with great accuracy using simple tools like chisels with bronze blades, which were struck with wooden mallets. The tombs are the final resting places of the senior officials of this region, the 16th Upper Egyptian province, which was known as the Oryx nome. They date to the 11th and 12th Dynasties of the Middle Kingdom (c. 2055–1795 BC). The repetition of names like Baqet, Khety, and Khnumhotep through a number of generations suggests that many of the owners of these tombs were related.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdult: EGP 200/ Student: EGP 100\nEGYPTIANS/ARABS:\nAdult: EGP 20 / Student: EGP 10",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/heliopolis",
+    "name": "Heliopolis",
+    "location": "Cairo",
+    "Outdoors": "True",
+    "Latitude":"30.1123",
+    "Longitude":"31.3439",
+    "rating": 4.5,
+    "reviews": 15932,
+    "description": "Baron Empain chose the site of Masr al-Gadida at the beginning of the twentieth century in agreement with Boghos Nubar Pasha. Both men agreed that the site was perfect for Baron Empain’s city of dreams, which he sought to build east of Cairo and overlooking the old city, specifically near Matariyya and the ruins of Heliopolis. This vision was one of the most successful architectural executions witnessed by the twentieth century. This vision turned the desert into a lively neighborhood fully furnished with services and encompassing different groups of society.\nHeliopolis was also the crucible of several new and innovative architectural styles, which merged the Islamicm Hindu, and European styles. Baron Empain’s palace, constructed in 1911 AD, is a testimony to this diversity, as its French architect, Alexander Marcel, was inspired by Cambodian temples.\nThe beautiful city of Heliopolis was designed not only to revive Egypt’s rich Islamic heritage. Rather, Baron Empain and Boghus Nubar had the intention of creating a global, comprehensive city.",
+    "opening_hours": {},
+    "prices": "",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel",
+    "name": "Abu Simbel",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"22.3372",
+    "Longitude":"31.6258",
+    "rating": 4.8,
+    "reviews": 18663,
+    "description": "The Great Temple of Abu Simbel, in Nubia near Egypt’s southern border, is among the most awe-inspiring monuments of Egypt. It was cut into the living rock by King Ramesses II (the Great) of the Nineteenth Dynasty, around 1264 BC. The temple is most well known for the four imposing seated colossal statues that dominate its façade. One of these collapsed because of an ancient earthquake, and its fragments can still be seen on the ground.\nColossal standing statues of the king line the main hall, leading to the sanctuary where four deities are sat: Amun Ra, Ra Horakhty, Ptah, and a deified version of Ramesses II. The temple was built with such precision that on two days a year, the 22nd of February and 22nd of October, the sun’s rays enter the temple, cross the main hall, and illuminate the innermost statues.\nAnother rock-cut temple to the north, known as the Small Temple, is dedicated to the goddess Hathor and Ramesses II’s Great Royal Wife, Queen Nefertari. On the façade of the Small Temple, her colossi are the same size as those of her husband, a very rare example of such display.\nThe two temples were moved from their original location in 1968 after the Aswan High Dam was built, as it threatened to submerge them. The relocation was completed thanks to an international effort led by UNESCO, and the temple was admitted into its list of World Heritage Sites in 1979.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdult: EGP 750/ Student: EGP 375\nFebruary 22nd & October 22nd :\nAdult: EGP 1200/ Student: EGP 600\nEGYPTIANS/ ARABS:\nAdult: EGP 30/ Student: EGP 10\nFebruary 22nd & October 22nd :\nAdult: EGP 60/ Student: EGP 20\nCars ticket:\nCar& Taxi: EGP25 / Micro-bus: EGP50 /Coaster: EGP75/ Bus: EGP100",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae",
+    "name": "Philae",
+    "location": "Aswan",
+    "Outdoors": "True",
+    "Latitude":"24.0127",
+    "Longitude":"32.8775",
+    "rating": 4.7,
+    "reviews": 729,
+    "description": "The monuments of Philae include many structures dating predominantly to the Ptolemaic Period (332–30 BC). The most prominent of these is a temple begun by Ptolemy II Philadelphus (285–246 BC), which he dedicated to Isis, the mother of Horus, the god of kingship. A scene in the mammisi, or birth room, where the birth of Horus was celebrated, depicts Isis suckling her son Horus in the marshes.\nThe temple of Isis was one of the last ancient Egyptian temples to remain active, as it continued to function until the reign of the Byzantine Emperor Justinian I (527–565 AD), who ordered the foreclosure of all pagan temples. It is here that a priest of Isis named Esmet-Akhom carved the very last dated hieroglyphic inscription, which dates to the late 4th century AD (394 AD). The temple was converted into a Christian church and many inscriptions were deliberately destroyed.\nNearby, there also is a temple dedicated to Hathor built by Ptolemy VI Philometor (180–145 BC) and Augustus, the first emperor of Rome (30 BC–14 AD). The Kiosk of Trajan (98–117 AD), which used to front the temple complex of Philae, still stands strong, despite its roof having disappeared. Its regular arrangement of columns made it an aesthetic delight and was regularly described or depicted by travelers to the island. Isis is once again central to this cult, as the emperor is shown making offerings to her, her consort Osiris, and their son Horus.\nAll these monuments were relocated from the original Philae island to the nearby island of Agilkia during the UNESCO Nubia Campaign in the 1960’s to rescue sites flooded by the construction of the Aswan High Dam.\nto download A Guide to Aswan click here!",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "04:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdult: EGP 550/ Student: EGP 275\nTemple panorama:\nAdult: EGP 200/ Student: EGP 100\nEGYPTIANS/ARABS:\nAdult: EGP 40 / Student: EGP 20\nTemple panorama:\nAdult: EGP 40/ Student: EGP 20",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak",
+    "name": "Karnak",
+    "location": "Luxor",
+    "Outdoors": "True",
+    "Latitude":"25.7188",
+    "Longitude":"32.6573",
+    "rating": 4.8,
+    "reviews": 368,
+    "description": "Aptly called Ipet‑Sut ‘The Most Select of Places’ by the ancient Egyptians, Karnak was one of the most important sites of all. Located on the east bank of Thebes (modern Luxor), Upper Egypt, it is the site of many temples and chapels, and it was in the Great Temple of Amun that the cult of the god Amun of Thebes was conducted. As such, it was extremely wealthy and its priesthood held great political power.\nThe line of kings who reunified Egypt after the First Intermediate Period hailed from Thebes. It thus became one of the most important cities, a position that it would continue to hold throughout the majority of ancient Egyptian history. The importance of Amun rose in tandem with the city’s rise to prominence. From the earliest evidence for it from the reign of Intef II (c. 2112–2063 BC) to the Ptolemaic Period (305 BC–30 BC), his temple was accordingly lavished with royal attention in the form construction projects, ritual equipment and other necessities, with some additions in the Roman Period (30 BC–AD 306). Nearly every king who reigned during the New Kingdom (c. 1550–1069 BC), Egypt’s age of empire, left his mark here.\nKarnak was in reality a complex of temples, consisting of several zones: In addition to the largest, the Amun Precinct, there are the Precinct of Mut, his wife, to the south; the Precinct of Montu to the north; and, to the east, Akhenaten’s temple to Aten.\nLike most ancient Egyptian temples, the Great Temple of Amun is built on an east–west axis. Ancient Egyptian temples were models of the cosmos, and this layout meant that they mirrored the sun god’s trajectory through the sky. Exceptionally, however, it also possesses a north–south axis, which orients it towards another temple, the abode of Amenemopet known today as Luxor Temple. This was a different version of Amun specific to south Luxor. Karnak and Luxor Temple were linked by a processional way lined with sphinxes. This was used in one of the most important celebrations of the ancient Egyptian calendar, the Opet Festival.\nIn addition to the ancient Egyptians’ mastery of stone, which is evident everywhere in the scale of the monuments, the reliefs covering their walls, and the statues populating them, several highlights are worth mentioning. The temple of Amun’s world‑famous Great Hypostyle Hall is a forest of 134 columns. These massive columns have a height of 15 metres, aside from the larger, central, twelve, which stand 21 metres tall. The hall may have been begun by Amenhotep III (c. 1390–1352 BC; 18th Dynasty), but the bulk of the construction, and all of the decoration, are from the reigns of 19th Dynasty kings Sety I (c. 1294–1279 BC) and his son Rameses II (c. 1279–1213 BC). Two magnificent obelisks stand nearby, the larger of the two, erected by Hatshepsut (c. 1473–1458 BC), standing at a colossal height of almost 30 metres and weighing over 300 tons. At the eastern end of Karnak is the Akh-menu, a temple by Thutmose III (c. 1479–1425 BC) dedicated to the cults of various deities, his royal predecessors, as well as his own cult.\nThe enclosure walls of the Amun Precinct also include a full temple to Khonsu in the southwestern corner, next to which is the temple of Opet, a hippopotamus goddess of childbirth, mostly built in the Ptolemaic Period. The beautiful sacred lake, where priests purified themselves before carrying out temple rituals, can still be appreciated today. Many more, smaller, temples and chapels dot the landscape of Karnak, making it a veritable open‑air museum.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "Karnak Temple:\nFOREIGNERS:\n- Inclusive tickets allowing entry into Karnak Temple and Open Museum in Karnak.\nAdult: EGP 600 / Student: EGP 300\n-Tickets of Mut Temple in Karnak:\nAdult: EGP 200 / Student: EGP 100\nEGYPTIANS/ARABS:\n- Karnak Temple tickets:\nAdult: EGP 40/ Student: EGP 20\n-Tickets of Mut Temple in Karnak:\nAdult: EGP 10 / Student: EGP 5",
+    "services": ["Toilet"]
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings",
+    "name": "Valley of the Kings",
+    "location": "Luxor",
+    "Outdoors": "True",
+    "Latitude":"25.7402",
+    "Longitude":"32.6014",
+    "rating": 4.8,
+    "reviews": 855,
+    "description": "The rulers of the Eighteenth, Nineteenth, and Twentieth Dynasties of Egypt’s prosperous New Kingdom (c.1550–1069 BC) were buried in a desolate dry river valley across the river from the ancient city of Thebes (modern Luxor), hence its modern name of the Valley of the Kings. This moniker is not entirely accurate, however, since some members of the royal family aside from the king were buried here as well, as were a few non-royal, albeit very high-ranking, individuals. The Valley of the Kings is divided into the East and West Valleys. The eastern is by far the more iconic of the two, as the western valley contains only a handful of tombs. In all, the Valley of the Kings includes over sixty tombs and an additional twenty unfinished ones that are little more than pits.\nThe site for this royal burial ground was selected carefully. Its location on specifically the west side of the Nile is significant as well. Because the sun god set (died) in the western horizon in order to be reborn, rejuvenated, in the eastern horizon, the west thus came to have funerary associations. Ancient Egyptian cemeteries were generally situated on the west bank of the Nile for this reason.\nThe powerful kings of the New Kingdom were laid to rest under the shadow of a pyramid-shaped peak rising out of the cliffs surrounding the valley. The selection of even the specific valley in which the royal tombs were excavated was not left to chance. The pyramid was a symbol of rebirth and thus eternal life, and the presence of a natural pyramid was seen as a sign of the divine. This entire area, and the peak itself, was sacred to a funerary aspect of the goddess Hathor: the “Mistress of the West”.\nThe isolated nature of this valley was yet another reason for its selection as the final resting place of the pharaoh. Tomb robberies occurred even in ancient times. The Egyptians were aware of this, having seen the a fate of the Old and Middle Kingdom pyramids, so they opted for hidden, underground tombs in a secluded desert valley. The first New Kingdom ruler that is confirmed to have been buried in the Valley of the Kings was Thutmose I (c.1504–1492 BC), the third king of the Eighteenth Dynasty. According to Ineni, the high official who was in charge of the digging of his tomb: “I oversaw the excavation of the cliff-tomb of his Person [the king] in privacy; none seeing, none hearing.”",
+    "opening_hours": {
+      "Sunday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdult: EGP 750/ Student: EGP 375\nEGYPTIANS/ARABS:\nAdult: EGP 60 / Student: EGP 30",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/deir-al-bahari",
+    "name": "Deir al-Bahari",
+    "location": "Luxor",
+    "Outdoors": "True",
+    "Latitude":"25.7373",
+    "Longitude":"32.6077",
+    "rating": 4.7,
+    "reviews": 516,
+    "description": "The celebrated temple of Hatshepsut (c.1473–1458 BC), the queen who became pharaoh, is located here, in Deir al-Bahari, on the west bank of Luxor. Composed of three man-made terraces that gradually rise up toward the sheer cliff face, this structure is truly a sight to behold.\nThe site of Deir al-Bahari was sacred to Hathor, the goddess who nursed and reared every king, including their mythological ancestor, the god Horus, in Egypt’s primordial past. A manifestation of this goddess was believed to reside in the very hills under whose shadow lies the temple of Hatshepsut, and just on the other side of which is the site of the tombs of some of ancient Egypt’s most famous rulers, the Valley of the Kings. Stelae bearing prayers to Hathor depict her, in cow form, emerging from these mountains. This impressive geological formation features a summit that is naturally pyramid-shaped.\nThis was the reason why king Nebhepetre Mentuhotep (c.2055–2004 BC) chose this hallowed location as the site of his tomb and mortuary temple, 600 years before Hatshepsut set foot here. Royal mortuary temples complemented tombs, and the cults of deceased kings were maintained in these structures for the continued survival of their souls in the hereafter. The most prominent feature of Mentuhotep’s temple-tomb was a monumental structure, believed by some to have been a mastaba, which rose from the center of the main terrace.\nThe temple of Hatshepsut, the ‘Holy of Holies’, served as a mortuary temple for the female pharaoh and her revered father, Thutmose I. Sunset was regarded as the daily death of the sun god before his glorious rebirth in the east. Given its funerary nature, Hatshepsut’s mortuary temple was built on the west bank of the Nile, directly across the river from the main temple of Amun in Karnak. The statues of this god, his wife Mut, and their son Khonsu left their temples every year during the Opet festival (Beautiful Feast of the Valley), and crossed the Nile to visit the royal mortuary temples, including Hatshepsut’s, which appears to have been one of their most important stops.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "06:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\nAdults: EGP 360/ Student: EGP 180\nEGYPTIANS/ARABS:\nAdults: EGP 40 / Student: EGP 20",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau",
+    "name": "Giza Plateau",
+    "location": "Giza",
+    "Outdoors": "True",
+    "Latitude":"29.9769",
+    "Longitude":"31.1327",
+    "rating": 4.6,
+    "reviews": 378,
+    "description": "The pyramids of Giza and the Great Sphinx are among the most popular tourist destinations in the world, and indeed already were even in Roman times. Each of these spectacular structures served as the final resting place of a king of the 4th Dynasty (c.2613–2494 BC). The Great Pyramid of Giza was built for king Khufu (c.2589–2566 BC), and the other two for Khafre and Menkaure, his son and grandson. Khufu’s pyramid is both the oldest and largest of the three, and the first building to exceed it in height would not be built for another 3,800 years!\nAlthough the three pyramids dominate the plateau, they are in fact surrounded by many other monuments. Every king’s pyramid was just one element albeit the most important of a larger complex that included smaller, subsidiary, queens’ pyramids; an additional one that acted as a second, symbolic, tomb for the king, called a satellite pyramid; mastaba tombs for nobility and other family members; burials of actual and/or symbolic boats; and a pair of temples linked by a richly decorated causeway. One of these temples, called the valley temple, led into the pyramid complex, and was located on or near a body of water where boats could dock. The other, the funerary (or upper) temple, stood near the base of the pyramid. Priests maintained the mortuary cult of the deceased king in these temples, where his divine aspect was worshiped, and where rich and diverse offerings were presented to his soul so he could have a peaceful and luxurious afterlife.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "07:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\n- Area entry:\nAdult: EGP 700/ Student: EGP 350\nThis ticket does not cover the Great Pyramid, Pyramid of Khafre, Pyramid of Menkaure, Tomb of Meresankh III, Worker's Cemetery.\nEGYPTIANS/ ARABS:\n- Area entry:\nAdult: EGP 60 / Student: EGP 30\nThis ticket does not cover the Great Pyramid, Pyramid of Khafre, Pyramid of Menkaure, Tomb of Meresankh III, and Worker's Cemetery.\nCars ticket:\nCar& Taxi: EGP25 / Micro-bus: EGP50 /Coaster: EGP75/ Bus: EGP100",
+    "services": []
+  },
+  {
+    "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara",
+    "name": "Saqqara",
+    "location": "Giza",
+    "Outdoors": "True",
+    "Latitude":"29.8685",
+    "Longitude":"31.2168",
+    "rating": null,
+    "reviews": null,
+    "description": "Located 40 km southwest of Cairo, Saqqara is one of the most important cemeteries of Memphis, which was itself one of the most important cities in ancient Egyptian history. The name of the site most likely derives from the god of this necropolis, Sokar.\nSaqqara is truly an open-air museum, one that has all of ancient Egyptian history on display. Kings and noblemen from the very first two dynasties (c.3040–2686 BC) were buried here, and this is also the location of the Step Pyramid of Djoser (c.2686–2667 BC).\nThe pyramids of some of the most important kings of the Old Kingdom Fifth (c.2494–2345 BC) and Sixth (c.2345–2181 BC) Dynasties are located in Saqqara. One of these, the pyramid of Unas (also known as Wenis; (c.2375–2345 BC), features the oldest pyramid burial chamber decorated with texts. These are the so-called Pyramid Texts, the purpose of which was to protect the deceased king on his journey to the afterlife. In addition to Old Kingdom royal burials, Saqqara is also full of the tombs of the noblemen of this period, which are decorated with scenes and texts of outstanding beauty and craftsmanship.\nSaqqara also features tombs from the First Intermediate Period (c.2181–2055 BC), Middle Kingdom (c.2055–1650 BC), and New Kingdom (c.1550–1069 BC). The New Kingdom tombs display an architectural style completely different from their Upper Egyptian counterparts in Thebes. Among them is the tomb of none other than Horemheb (c.1323–1295 BC), the non-royal individual, the general, who became king. He was never buried here however, for, upon ascending the throne, he built a new tomb in the Valley of the Kings worthy of his royal rank.\nAmong the most important of Saqqara’s monuments is the Serapeum, a series of underground galleries in which the Apis Bulls were buried from the Eighteenth Dynasty (c.1550–1295 BC) to the Ptolemaic Period (332–30 BC). The Apis Bull was considered an incarnation of Ptah himself, one of the most important gods of Memphis, and as such, there was only ever one Apis Bull at a time. When it died, it was buried with full honors until his successor could be found.\nEgypt’s Coptic era is featured in Saqqara as well through the remains of the Monastery of Apa Jeremiah, which was in use until the eighth century AD. Today, Saqqara is also the site of the Imhotep Museum, in which objects from the site’s immense chronological span are displayed.",
+    "opening_hours": {
+      "Sunday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Monday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Tuesday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Wednesday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Thursday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Friday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      },
+      "Saturday": {
+        "from": "08:00 AM",
+        "to": "05:00 PM"
+      }
+    },
+    "prices": "FOREIGNERS:\n- Saqqara Area:\nAdult: EGP 600/ Student: EGP 300\n- Noble Tombs + New Kingdom Tombs:\nAdult: EGP 400 Student: EGP 200\n- Tomb of Mereruka:\nAdult: EGP 200/ Student: EGP 100\n- Pyramid of Djoser:\nAdult: EGP 280/ Student: EGP 140\n- The Southern Tomb in Djoser complex:\nAdult: EGP 300/ Student: EGP 150\nSerapeum:\nAdult: EGP 340/ Student: EGP 170\n- Inclusive ticket:\nAdult: EGP 1000/ Student: EGP 500\nInclusive ticket allowing entry into the site, Imhotep Museum, Nobles Tombs, New Kingdom Tombs, Tomb of Mereruka, Tomb of Mehu.\nEGYPTIANS/ ARABS:\n- Saqqara:\nAdult: EGP 30 / Student: EGP 10\n- Noble Tombs + New Kingdom Tombs:\nAdult: EGP 20 / Student: EGP 10\n- Serapeum:\nAdult: EGP 20 / Student: EGP 5\n- Tomb of Mereruka:\nAdult: EGP 20 / Student: EGP 5\n- Pyramid of Djoser:\nAdult: EGP 40 / Student: EGP 20\n- The Southern Tomb in Djoser complex:\nAdult: EGP 40 / Student: EGP 20\nCars ticket:\nCar& Taxi: EGP25 / Micro-bus: EGP50 /Coaster: EGP75/ Bus: EGP100",
+    "services": []
+  }
+]
